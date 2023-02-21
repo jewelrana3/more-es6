@@ -32,4 +32,4 @@ console.log(friend);
 const {name} = {name:'juyel',adress:'bademaju',salary:22222}
 
 // arrow side
-const [x,y,z,...x] = [44,654,88,09,764,33]
+const [x,y,...v] = [44,654,88,09,764,33]
